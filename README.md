@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/arc7oHk0)
 # Family Relationships in Prolog
 
-## Name  Anthony Putman
+## Anthony Putman
 
 I'll be using SWI Prolog. You can download it here: 
 [https://www.swi-prolog.org/Download.html](https://www.swi-prolog.org/Download.html)
