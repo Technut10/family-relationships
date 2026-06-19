@@ -2,7 +2,9 @@
 
 ## Anthony Putman
 
-I'll be using SWI Prolog. You can download it here: 
+### A prolog program that associates family members to one another.
+
+I used SWI Prolog. You can download it here and do a checksum: 
 [https://www.swi-prolog.org/Download.html](https://www.swi-prolog.org/Download.html)
 Docker is always good:
 [https://www.swi-prolog.org/Docker.html](https://www.swi-prolog.org/Docker.html)
